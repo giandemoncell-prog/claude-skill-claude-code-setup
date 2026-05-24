@@ -33,6 +33,10 @@ Then in any Claude Code session:
 - Developers onboarding a new machine to their existing Claude Code workflow
 - Teams standardizing their Claude Code configuration
 
+## Part of
+
+[giandemoncell-prog/claude-skills](https://github.com/giandemoncell-prog/claude-skills) — collection of all Claude Code skills.
+
 ## License
 
 MIT
